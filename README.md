@@ -1,14 +1,14 @@
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/MaxiaB)
-[<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />](https://github.com/MaxiaB)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/maxiambrunnen) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maxiambrunnen/)
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@maxiambrunnen)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzBL4lSuEOwcJNGaK7T2Bpw)
+<> ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzBL4lSuEOwcJNGaK7T2Bpw)
 
 
 ### Hi there 👋
 - 🧰 Feel free to check out my [portfolio](https://maxiambrunnen.de) website!
 - ⚡ I am a Photographer / Videographer who is learning to code and build with: `Python`, `JavaScript`, `Next.js`, `Tailwind` ...
+- 📫 Reach out to me: [contact](https://maxiambrunnen.de/contact)
 
 <!--
 **MaxiaB/maxiab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
