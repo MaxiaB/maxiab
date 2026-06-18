@@ -6,7 +6,6 @@
 
 ### Hi there 👋
 - 🧰 Feel free to check out my [portfolio](https://maxiambrunnen.de) website!
-- ⚡ I am a Photographer / Videographer who is learning to code and build with: `Python`, `JavaScript`, `Next.js`, `Tailwind` ...
 - 📫 Reach out to me: [contact](https://maxiambrunnen.de/contact)
 
 <!--
